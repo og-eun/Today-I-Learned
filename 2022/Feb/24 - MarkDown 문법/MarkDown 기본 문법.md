@@ -305,13 +305,15 @@ MarkDown 문법
 ## 9. 이미지
 * 사이즈 조절 기능은 따로 없다.
     ```
-    ![Alt 문자열](이미지 URL 혹은 이미지 경로)
-    ![Alt 문자열](이미지 URL 혹은 이미지 경로 "이미지 제목")
-    ![Alt 이미지 파일임](https://images.megapixl.com/5273/52734504.jpg)
+     ![Alt 문자열](이미지 URL 혹은 이미지 경로)
+     ![Alt 문자열](이미지 URL 혹은 이미지 경로 "이미지 제목")
+     ![Alt 이미지 파일임](https://images.megapixl.com/5273/52734504.jpg)
   
-    <img src="https://images.megapixl.com/5273/52734504.jpg" width="300px" height="300px" title="px 크기 조절" alt="이미지 파일임"></img>
-    <img src="https://images.megapixl.com/5273/52734504.jpg" width="20%" height="20%" title="% 크기 조절" alt="이미지 파일임"></img>
+     <img src="https://images.megapixl.com/5273/52734504.jpg" width="300px" height="300px" title="px 크기 조절" alt="이미지 파일임"></img>
+     <img src="https://images.megapixl.com/5273/52734504.jpg" width="20%" height="20%" title="% 크기 조절" alt="이미지 파일임"></img>
     ```
   ![Alt 이미지 파일임](https://images.megapixl.com/5273/52734504.jpg)
   <img src="https://images.megapixl.com/5273/52734504.jpg" width="300px" height="300px" title="px 크기 조절" alt="이미지 파일임"></img><br>
   <img src="https://images.megapixl.com/5273/52734504.jpg" width="20%" height="20%" title="% 크기 조절" alt="이미지 파일임"></img>
+
+*****
